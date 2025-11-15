@@ -1,0 +1,680 @@
+[
+  {
+    "user_id": "489bd5ed-bd59-438b-ba37-924393890e59",
+    "device": "android",
+    "screen": "HomeActivity",
+    "ts": "2025-11-10 12:00:27"
+  },
+  {
+    "user_id": "489bd5ed-bd59-438b-ba37-924393890e59",
+    "device": "android",
+    "screen": "HomeActivity",
+    "ts": "2025-11-10 12:01:15"
+  },
+  {
+    "user_id": "489bd5ed-bd59-438b-ba37-924393890e59",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-10 12:02:27"
+  },
+  {
+    "user_id": "489bd5ed-bd59-438b-ba37-924393890e59",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-10 13:35:36"
+  },
+  {
+    "user_id": "489bd5ed-bd59-438b-ba37-924393890e59",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-10 13:36:18"
+  },
+  {
+    "user_id": "489bd5ed-bd59-438b-ba37-924393890e59",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-10 14:26:58"
+  },
+  {
+    "user_id": "489bd5ed-bd59-438b-ba37-924393890e59",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-10 14:43:38"
+  },
+  {
+    "user_id": "489bd5ed-bd59-438b-ba37-924393890e59",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-10 15:13:31"
+  },
+  {
+    "user_id": "489bd5ed-bd59-438b-ba37-924393890e59",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-10 15:36:26"
+  },
+  {
+    "user_id": "489bd5ed-bd59-438b-ba37-924393890e59",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-10 15:36:36"
+  },
+  {
+    "user_id": "489bd5ed-bd59-438b-ba37-924393890e59",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-10 15:36:49"
+  },
+  {
+    "user_id": "489bd5ed-bd59-438b-ba37-924393890e59",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-10 15:37:31"
+  },
+  {
+    "user_id": "489bd5ed-bd59-438b-ba37-924393890e59",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-10 15:37:43"
+  },
+  {
+    "user_id": "489bd5ed-bd59-438b-ba37-924393890e59",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-10 17:17:27"
+  },
+  {
+    "user_id": "489bd5ed-bd59-438b-ba37-924393890e59",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-10 17:23:42"
+  },
+  {
+    "user_id": "489bd5ed-bd59-438b-ba37-924393890e59",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-10 17:39:04"
+  },
+  {
+    "user_id": "489bd5ed-bd59-438b-ba37-924393890e59",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-10 18:06:39"
+  },
+  {
+    "user_id": "489bd5ed-bd59-438b-ba37-924393890e59",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-10 18:07:28"
+  },
+  {
+    "user_id": "489bd5ed-bd59-438b-ba37-924393890e59",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-10 18:07:59"
+  },
+  {
+    "user_id": "489bd5ed-bd59-438b-ba37-924393890e59",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-10 18:08:10"
+  },
+  {
+    "user_id": "489bd5ed-bd59-438b-ba37-924393890e59",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-10 18:08:28"
+  },
+  {
+    "user_id": "489bd5ed-bd59-438b-ba37-924393890e59",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-10 18:25:39"
+  },
+  {
+    "user_id": "4ff64e79-ec4e-4b23-aa61-4a3f1372caee",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-10 18:26:57"
+  },
+  {
+    "user_id": "4ff64e79-ec4e-4b23-aa61-4a3f1372caee",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-10 18:30:38"
+  },
+  {
+    "user_id": "4ff64e79-ec4e-4b23-aa61-4a3f1372caee",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-10 18:48:22"
+  },
+  {
+    "user_id": "4ff64e79-ec4e-4b23-aa61-4a3f1372caee",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-10 18:50:02"
+  },
+  {
+    "user_id": "4ff64e79-ec4e-4b23-aa61-4a3f1372caee",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-10 18:53:05"
+  },
+  {
+    "user_id": "4ff64e79-ec4e-4b23-aa61-4a3f1372caee",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-10 18:57:55"
+  },
+  {
+    "user_id": "4ff64e79-ec4e-4b23-aa61-4a3f1372caee",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-10 19:12:35"
+  },
+  {
+    "user_id": "4ff64e79-ec4e-4b23-aa61-4a3f1372caee",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-10 19:12:49"
+  },
+  {
+    "user_id": "4ff64e79-ec4e-4b23-aa61-4a3f1372caee",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-10 19:13:25"
+  },
+  {
+    "user_id": "4ff64e79-ec4e-4b23-aa61-4a3f1372caee",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-10 19:14:07"
+  },
+  {
+    "user_id": "4ff64e79-ec4e-4b23-aa61-4a3f1372caee",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-10 19:18:56"
+  },
+  {
+    "user_id": "4ff64e79-ec4e-4b23-aa61-4a3f1372caee",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-10 19:19:18"
+  },
+  {
+    "user_id": "4ff64e79-ec4e-4b23-aa61-4a3f1372caee",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-10 19:19:35"
+  },
+  {
+    "user_id": "4ff64e79-ec4e-4b23-aa61-4a3f1372caee",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-10 19:27:41"
+  },
+  {
+    "user_id": "8378725d-82e9-4a3a-b3c4-4d0f9e2a1a99",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-10 19:28:55"
+  },
+  {
+    "user_id": "8378725d-82e9-4a3a-b3c4-4d0f9e2a1a99",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-10 19:29:47"
+  },
+  {
+    "user_id": "8378725d-82e9-4a3a-b3c4-4d0f9e2a1a99",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-10 19:30:18"
+  },
+  {
+    "user_id": "8378725d-82e9-4a3a-b3c4-4d0f9e2a1a99",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-10 19:30:39"
+  },
+  {
+    "user_id": "8378725d-82e9-4a3a-b3c4-4d0f9e2a1a99",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-10 19:31:09"
+  },
+  {
+    "user_id": "8378725d-82e9-4a3a-b3c4-4d0f9e2a1a99",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-10 19:52:16"
+  },
+  {
+    "user_id": "8378725d-82e9-4a3a-b3c4-4d0f9e2a1a99",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-10 19:53:30"
+  },
+  {
+    "user_id": "8378725d-82e9-4a3a-b3c4-4d0f9e2a1a99",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-10 19:59:53"
+  },
+  {
+    "user_id": "8378725d-82e9-4a3a-b3c4-4d0f9e2a1a99",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-10 20:00:17"
+  },
+  {
+    "user_id": "8378725d-82e9-4a3a-b3c4-4d0f9e2a1a99",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-11 17:44:04"
+  },
+  {
+    "user_id": "8378725d-82e9-4a3a-b3c4-4d0f9e2a1a99",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-11 17:52:12"
+  },
+  {
+    "user_id": "8378725d-82e9-4a3a-b3c4-4d0f9e2a1a99",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-11 18:27:12"
+  },
+  {
+    "user_id": "8378725d-82e9-4a3a-b3c4-4d0f9e2a1a99",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-11 18:39:22"
+  },
+  {
+    "user_id": "8378725d-82e9-4a3a-b3c4-4d0f9e2a1a99",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-11 18:45:32"
+  },
+  {
+    "user_id": "8378725d-82e9-4a3a-b3c4-4d0f9e2a1a99",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-11 18:47:10"
+  },
+  {
+    "user_id": "8378725d-82e9-4a3a-b3c4-4d0f9e2a1a99",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-11 18:57:00"
+  },
+  {
+    "user_id": "8378725d-82e9-4a3a-b3c4-4d0f9e2a1a99",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-11 19:04:01"
+  },
+  {
+    "user_id": "8378725d-82e9-4a3a-b3c4-4d0f9e2a1a99",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-11 21:03:03"
+  },
+  {
+    "user_id": "8378725d-82e9-4a3a-b3c4-4d0f9e2a1a99",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-11 21:20:05"
+  },
+  {
+    "user_id": "8378725d-82e9-4a3a-b3c4-4d0f9e2a1a99",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-11 21:21:02"
+  },
+  {
+    "user_id": "8378725d-82e9-4a3a-b3c4-4d0f9e2a1a99",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-11 21:45:45"
+  },
+  {
+    "user_id": "8378725d-82e9-4a3a-b3c4-4d0f9e2a1a99",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-12 00:33:20"
+  },
+  {
+    "user_id": "8378725d-82e9-4a3a-b3c4-4d0f9e2a1a99",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-12 00:33:32"
+  },
+  {
+    "user_id": "8378725d-82e9-4a3a-b3c4-4d0f9e2a1a99",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-12 00:37:01"
+  },
+  {
+    "user_id": "8378725d-82e9-4a3a-b3c4-4d0f9e2a1a99",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-12 00:50:28"
+  },
+  {
+    "user_id": "8378725d-82e9-4a3a-b3c4-4d0f9e2a1a99",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-12 00:50:55"
+  },
+  {
+    "user_id": "8378725d-82e9-4a3a-b3c4-4d0f9e2a1a99",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-12 00:53:18"
+  },
+  {
+    "user_id": "8378725d-82e9-4a3a-b3c4-4d0f9e2a1a99",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-12 01:05:52"
+  },
+  {
+    "user_id": "8378725d-82e9-4a3a-b3c4-4d0f9e2a1a99",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-12 01:13:10"
+  },
+  {
+    "user_id": "8378725d-82e9-4a3a-b3c4-4d0f9e2a1a99",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-12 01:24:40"
+  },
+  {
+    "user_id": "8378725d-82e9-4a3a-b3c4-4d0f9e2a1a99",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-12 01:38:50"
+  },
+  {
+    "user_id": "8378725d-82e9-4a3a-b3c4-4d0f9e2a1a99",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-12 01:53:14"
+  },
+  {
+    "user_id": "8378725d-82e9-4a3a-b3c4-4d0f9e2a1a99",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-12 08:57:00"
+  },
+  {
+    "user_id": "8378725d-82e9-4a3a-b3c4-4d0f9e2a1a99",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-12 09:11:21"
+  },
+  {
+    "user_id": "8378725d-82e9-4a3a-b3c4-4d0f9e2a1a99",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-12 09:19:52"
+  },
+  {
+    "user_id": "8378725d-82e9-4a3a-b3c4-4d0f9e2a1a99",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-12 09:22:50"
+  },
+  {
+    "user_id": "8378725d-82e9-4a3a-b3c4-4d0f9e2a1a99",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-12 09:28:34"
+  },
+  {
+    "user_id": "8378725d-82e9-4a3a-b3c4-4d0f9e2a1a99",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-12 09:32:07"
+  },
+  {
+    "user_id": "8378725d-82e9-4a3a-b3c4-4d0f9e2a1a99",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-12 09:36:58"
+  },
+  {
+    "user_id": "8378725d-82e9-4a3a-b3c4-4d0f9e2a1a99",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-12 09:39:55"
+  },
+  {
+    "user_id": "8378725d-82e9-4a3a-b3c4-4d0f9e2a1a99",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-12 09:41:04"
+  },
+  {
+    "user_id": "8378725d-82e9-4a3a-b3c4-4d0f9e2a1a99",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-12 09:45:15"
+  },
+  {
+    "user_id": "8378725d-82e9-4a3a-b3c4-4d0f9e2a1a99",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-12 09:49:06"
+  },
+  {
+    "user_id": "8378725d-82e9-4a3a-b3c4-4d0f9e2a1a99",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-12 09:57:36"
+  },
+  {
+    "user_id": "8378725d-82e9-4a3a-b3c4-4d0f9e2a1a99",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-12 10:09:21"
+  },
+  {
+    "user_id": "8378725d-82e9-4a3a-b3c4-4d0f9e2a1a99",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-12 10:13:07"
+  },
+  {
+    "user_id": "8378725d-82e9-4a3a-b3c4-4d0f9e2a1a99",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-12 10:16:40"
+  },
+  {
+    "user_id": "8378725d-82e9-4a3a-b3c4-4d0f9e2a1a99",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-12 10:30:35"
+  },
+  {
+    "user_id": "8378725d-82e9-4a3a-b3c4-4d0f9e2a1a99",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-12 10:37:58"
+  },
+  {
+    "user_id": "8378725d-82e9-4a3a-b3c4-4d0f9e2a1a99",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-12 10:41:11"
+  },
+  {
+    "user_id": "8378725d-82e9-4a3a-b3c4-4d0f9e2a1a99",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-13 16:02:21"
+  },
+  {
+    "user_id": "8378725d-82e9-4a3a-b3c4-4d0f9e2a1a99",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-14 16:44:25"
+  },
+  {
+    "user_id": "4ff64e79-ec4e-4b23-aa61-4a3f1372caee",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-14 18:43:45"
+  },
+  {
+    "user_id": "4ff64e79-ec4e-4b23-aa61-4a3f1372caee",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-14 18:43:58"
+  },
+  {
+    "user_id": "4ff64e79-ec4e-4b23-aa61-4a3f1372caee",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-14 18:48:49"
+  },
+  {
+    "user_id": "4ff64e79-ec4e-4b23-aa61-4a3f1372caee",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-14 18:52:53"
+  },
+  {
+    "user_id": "4ff64e79-ec4e-4b23-aa61-4a3f1372caee",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-14 19:03:16"
+  },
+  {
+    "user_id": "4ff64e79-ec4e-4b23-aa61-4a3f1372caee",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-14 23:04:00"
+  },
+  {
+    "user_id": "4ff64e79-ec4e-4b23-aa61-4a3f1372caee",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-14 23:12:27"
+  },
+  {
+    "user_id": "4ff64e79-ec4e-4b23-aa61-4a3f1372caee",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-14 23:44:44"
+  },
+  {
+    "user_id": "4ff64e79-ec4e-4b23-aa61-4a3f1372caee",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-14 23:44:52"
+  },
+  {
+    "user_id": "4ff64e79-ec4e-4b23-aa61-4a3f1372caee",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-14 23:44:57"
+  },
+  {
+    "user_id": "4ff64e79-ec4e-4b23-aa61-4a3f1372caee",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-14 23:45:03"
+  },
+  {
+    "user_id": "4ff64e79-ec4e-4b23-aa61-4a3f1372caee",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-14 23:47:36"
+  },
+  {
+    "user_id": "4ff64e79-ec4e-4b23-aa61-4a3f1372caee",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-14 23:53:20"
+  },
+  {
+    "user_id": "4ff64e79-ec4e-4b23-aa61-4a3f1372caee",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-15 00:02:23"
+  },
+  {
+    "user_id": "4ff64e79-ec4e-4b23-aa61-4a3f1372caee",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-15 00:16:04"
+  },
+  {
+    "user_id": "4ff64e79-ec4e-4b23-aa61-4a3f1372caee",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-15 00:28:17"
+  },
+  {
+    "user_id": "4ff64e79-ec4e-4b23-aa61-4a3f1372caee",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-15 00:48:25"
+  },
+  {
+    "user_id": "4ff64e79-ec4e-4b23-aa61-4a3f1372caee",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-15 01:10:15"
+  },
+  {
+    "user_id": "4ff64e79-ec4e-4b23-aa61-4a3f1372caee",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-15 08:29:53"
+  },
+  {
+    "user_id": "4ff64e79-ec4e-4b23-aa61-4a3f1372caee",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-15 09:32:03"
+  },
+  {
+    "user_id": "4ff64e79-ec4e-4b23-aa61-4a3f1372caee",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-15 09:47:51"
+  },
+  {
+    "user_id": "4ff64e79-ec4e-4b23-aa61-4a3f1372caee",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-15 09:57:05"
+  },
+  {
+    "user_id": "4ff64e79-ec4e-4b23-aa61-4a3f1372caee",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-15 10:10:23"
+  },
+  {
+    "user_id": "4ff64e79-ec4e-4b23-aa61-4a3f1372caee",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-15 10:13:09"
+  },
+  {
+    "user_id": "4ff64e79-ec4e-4b23-aa61-4a3f1372caee",
+    "device": "android",
+    "screen": "MainActivity",
+    "ts": "2025-11-15 10:23:43"
+  }
+]

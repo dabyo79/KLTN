@@ -1,0 +1,149 @@
+user_id,query,budget,pref_brand,usage,laptop_id,laptop_brand,price,ram_gb,storage_gb,cpu,gpu,clicked
+,lap để vừa học vừa chơi có ram 16gb cpui7,,,"['study', 'gaming']",ec6d21cf-8d6c-4b01-b30e-94a7cef6cd0e,apple,21000000,8,256,Apple M1,Integrated,0
+,lap để vừa học vừa chơi có ram 16gb cpui7,,,"['study', 'gaming']",c401ca1b-3547-4855-ae95-cbe070c40cd2,apple,26000000,8,256,Apple M2,Integrated,0
+,lap để vừa học vừa chơi có ram 16gb cpui7,,,"['study', 'gaming']",f6a53db3-7a78-4bca-8e19-d3a9478e8f24,apple,42000000,16,512,Apple M2 Pro,Integrated,0
+,lap để vừa học vừa chơi có ram 16gb cpui7,,,"['study', 'gaming']",31916a3f-8a7e-47f0-9784-91d0cd384fe9,apple,30000000,8,512,Apple M1,Integrated,0
+,lap để vừa học vừa chơi có ram 16gb cpui7,,,"['study', 'gaming']",bc6b28ae-5efe-46f2-b427-5a887474f0dc,apple,21500000,8,256,Apple M1,Integrated,0
+,lap để vừa học vừa chơi có ram 16gb cpui7,,,"['study', 'gaming']",9e4749e2-b206-4fbb-b136-fae8da0a9a97,apple,29500000,16,512,Apple M2,Integrated,0
+,lap để vừa học vừa chơi có ram 16gb cpui7,,,"['study', 'gaming']",966a376a-6d2c-4c8a-aa68-7eb9035893aa,apple,58000000,16,1000,Apple M2 Pro,Integrated,0
+,lap để vừa học vừa chơi có ram 16gb cpui7,,,"['study', 'gaming']",8c5864cb-cc40-4104-bf83-90a1b29a0671,apple,21500000,8,256,Apple M1,Integrated,0
+,lap để vừa học vừa chơi có ram 16gb cpui7,,,"['study', 'gaming']",43474679-a1ae-49be-b5ed-521f97734c31,apple,46000000,16,512,Apple M3,Integrated,0
+,lap để vừa học vừa chơi có ram 16gb cpui7,,,"['study', 'gaming']",a4826d94-2984-45cb-9363-7aadb8afa11e,apple,31000000,8,512,Apple M2,Integrated,0
+,lap để vừa học vừa chơi,,,study,ec6d21cf-8d6c-4b01-b30e-94a7cef6cd0e,apple,21000000,8,256,Apple M1,Integrated,0
+,lap để vừa học vừa chơi,,,study,c401ca1b-3547-4855-ae95-cbe070c40cd2,apple,26000000,8,256,Apple M2,Integrated,0
+,lap để vừa học vừa chơi,,,study,f6a53db3-7a78-4bca-8e19-d3a9478e8f24,apple,42000000,16,512,Apple M2 Pro,Integrated,0
+,lap để vừa học vừa chơi,,,study,31916a3f-8a7e-47f0-9784-91d0cd384fe9,apple,30000000,8,512,Apple M1,Integrated,0
+,lap để vừa học vừa chơi,,,study,bc6b28ae-5efe-46f2-b427-5a887474f0dc,apple,21500000,8,256,Apple M1,Integrated,0
+,lap để vừa học vừa chơi,,,study,9e4749e2-b206-4fbb-b136-fae8da0a9a97,apple,29500000,16,512,Apple M2,Integrated,0
+,lap để vừa học vừa chơi,,,study,966a376a-6d2c-4c8a-aa68-7eb9035893aa,apple,58000000,16,1000,Apple M2 Pro,Integrated,0
+,lap để vừa học vừa chơi,,,study,8c5864cb-cc40-4104-bf83-90a1b29a0671,apple,21500000,8,256,Apple M1,Integrated,0
+,lap để vừa học vừa chơi,,,study,43474679-a1ae-49be-b5ed-521f97734c31,apple,46000000,16,512,Apple M3,Integrated,0
+,lap để vừa học vừa chơi,,,study,a4826d94-2984-45cb-9363-7aadb8afa11e,apple,31000000,8,512,Apple M2,Integrated,0
+,lap top cỡ 20 tr,20000000.0,,,ec6d21cf-8d6c-4b01-b30e-94a7cef6cd0e,apple,21000000,8,256,Apple M1,Integrated,0
+,lap top cỡ 20 tr,20000000.0,,,bc6b28ae-5efe-46f2-b427-5a887474f0dc,apple,21500000,8,256,Apple M1,Integrated,0
+,lap top cỡ 20 tr,20000000.0,,,8c5864cb-cc40-4104-bf83-90a1b29a0671,apple,21500000,8,256,Apple M1,Integrated,0
+,lap top cỡ 20 tr,20000000.0,,,7198c03e-445c-48e0-bb01-021a44550414,dell,18500000,8,512,Intel Core i5-1135G7,Iris Xe,0
+,lap top cỡ 20 tr,20000000.0,,,f7202d5f-c073-4164-b483-c0cd7e51de53,hp,21500000,16,512,Intel Core i5-1235U,Iris Xe,0
+,lap top cỡ 20 tr,20000000.0,,,48a584d8-0098-4cb9-99cc-96863951c458,lenovo,21000000,16,512,Intel Core i5-1235U,Iris Xe,0
+,lap top cỡ 20 tr,20000000.0,,,3f978568-e813-4d7e-8686-6bfdca15efbf,lenovo,19500000,16,512,AMD Ryzen 5 5600H,RTX 3050,0
+,lap top cỡ 20 tr,20000000.0,,,7681e3d7-6654-4910-82c5-c97a4c1660ca,asus,21500000,16,512,Intel Core i5-11400H,RTX 3050,0
+,lap top cỡ 20 tr,20000000.0,,,346c3c14-476f-461f-8418-8a48d08314a0,acer,18500000,16,512,Intel Core i5-1240P,Iris Xe,0
+,lap top cỡ 20 tr,20000000.0,,,a759643c-5e71-4dbe-b041-2d37030f6c3e,acer,20500000,16,512,Intel Core i5-12500H,RTX 3050,0
+,lap top tầm trung,,,,ec6d21cf-8d6c-4b01-b30e-94a7cef6cd0e,apple,21000000,8,256,Apple M1,Integrated,0
+,lap top tầm trung,,,,c401ca1b-3547-4855-ae95-cbe070c40cd2,apple,26000000,8,256,Apple M2,Integrated,0
+,lap top tầm trung,,,,f6a53db3-7a78-4bca-8e19-d3a9478e8f24,apple,42000000,16,512,Apple M2 Pro,Integrated,0
+,lap top tầm trung,,,,31916a3f-8a7e-47f0-9784-91d0cd384fe9,apple,30000000,8,512,Apple M1,Integrated,0
+,lap top tầm trung,,,,bc6b28ae-5efe-46f2-b427-5a887474f0dc,apple,21500000,8,256,Apple M1,Integrated,0
+,lap top tầm trung,,,,9e4749e2-b206-4fbb-b136-fae8da0a9a97,apple,29500000,16,512,Apple M2,Integrated,0
+,lap top tầm trung,,,,966a376a-6d2c-4c8a-aa68-7eb9035893aa,apple,58000000,16,1000,Apple M2 Pro,Integrated,0
+,lap top tầm trung,,,,8c5864cb-cc40-4104-bf83-90a1b29a0671,apple,21500000,8,256,Apple M1,Integrated,0
+,lap top tầm trung,,,,43474679-a1ae-49be-b5ed-521f97734c31,apple,46000000,16,512,Apple M3,Integrated,0
+,lap top tầm trung,,,,a4826d94-2984-45cb-9363-7aadb8afa11e,apple,31000000,8,512,Apple M2,Integrated,0
+,lenovo,,lenovo,,29fe114f-5fe3-46a0-9d8a-4025d3fae026,lenovo,10500000,8,512,Intel Core i3-1115G4,Intel UHD,0
+,lenovo,,lenovo,,067b2adb-5a1e-4f58-8830-776f0707b9f7,lenovo,15500000,16,512,AMD Ryzen 5 7530U,Radeon,0
+,lenovo,,lenovo,,48a584d8-0098-4cb9-99cc-96863951c458,lenovo,21000000,16,512,Intel Core i5-1235U,Iris Xe,0
+,lenovo,,lenovo,,551808ec-a3ac-4005-a94d-77bee7055341,lenovo,29500000,16,512,Intel Core i7-1255U,Iris Xe,0
+,lenovo,,lenovo,,5e2bc2bd-09b7-43ac-8895-aaef424bf805,lenovo,30500000,16,512,AMD Ryzen 7 5800H,RTX 3060,0
+,lenovo,,lenovo,,0313fd2e-e70d-4cc6-9d98-03d73e886c95,lenovo,32900000,16,512,AMD Ryzen 7 7840HS,RTX 4060,0
+,lenovo,,lenovo,,8343b3ea-550f-4fae-82a8-0adee5c8117f,lenovo,24500000,16,512,Intel Core i7-1355U,Iris Xe,0
+,lenovo,,lenovo,,3f978568-e813-4d7e-8686-6bfdca15efbf,lenovo,19500000,16,512,AMD Ryzen 5 5600H,RTX 3050,0
+,lenovo,,lenovo,,88d2e5e9-3d8d-48af-a142-b94a6ed9898e,lenovo,9500000,8,256,Intel Core i3-1215U,Intel UHD,0
+,lenovo,,lenovo,,2f8ac23a-bed2-4f21-b27e-cb8000d344d2,lenovo,16500000,16,512,Intel Core i5-1235U,Iris Xe,0
+,aus,,,,ec6d21cf-8d6c-4b01-b30e-94a7cef6cd0e,apple,21000000,8,256,Apple M1,Integrated,0
+,aus,,,,c401ca1b-3547-4855-ae95-cbe070c40cd2,apple,26000000,8,256,Apple M2,Integrated,0
+,aus,,,,f6a53db3-7a78-4bca-8e19-d3a9478e8f24,apple,42000000,16,512,Apple M2 Pro,Integrated,0
+,aus,,,,31916a3f-8a7e-47f0-9784-91d0cd384fe9,apple,30000000,8,512,Apple M1,Integrated,0
+,aus,,,,bc6b28ae-5efe-46f2-b427-5a887474f0dc,apple,21500000,8,256,Apple M1,Integrated,0
+,aus,,,,9e4749e2-b206-4fbb-b136-fae8da0a9a97,apple,29500000,16,512,Apple M2,Integrated,0
+,aus,,,,966a376a-6d2c-4c8a-aa68-7eb9035893aa,apple,58000000,16,1000,Apple M2 Pro,Integrated,0
+,aus,,,,8c5864cb-cc40-4104-bf83-90a1b29a0671,apple,21500000,8,256,Apple M1,Integrated,0
+,aus,,,,43474679-a1ae-49be-b5ed-521f97734c31,apple,46000000,16,512,Apple M3,Integrated,0
+,aus,,,,a4826d94-2984-45cb-9363-7aadb8afa11e,apple,31000000,8,512,Apple M2,Integrated,0
+,máy lenovo dưới 20tr,20000000.0,lenovo,,48a584d8-0098-4cb9-99cc-96863951c458,lenovo,21000000,16,512,Intel Core i5-1235U,Iris Xe,0
+,máy lenovo dưới 20tr,20000000.0,lenovo,,3f978568-e813-4d7e-8686-6bfdca15efbf,lenovo,19500000,16,512,AMD Ryzen 5 5600H,RTX 3050,0
+,máy lenovo dưới 20tr,20000000.0,lenovo,,067b2adb-5a1e-4f58-8830-776f0707b9f7,lenovo,15500000,16,512,AMD Ryzen 5 7530U,Radeon,0
+,máy lenovo dưới 20tr,20000000.0,lenovo,,2f8ac23a-bed2-4f21-b27e-cb8000d344d2,lenovo,16500000,16,512,Intel Core i5-1235U,Iris Xe,0
+,máy lenovo dưới 20tr,20000000.0,lenovo,,293f6bd8-62c2-4e88-8855-d2f631a31e63,lenovo,23900000,16,512,Intel Core i5-12450H,RTX 4050,0
+,máy lenovo dưới 20tr,20000000.0,lenovo,,86dc3870-8b30-45a8-a5cf-961a3c1053fe,lenovo,22500000,16,512,Intel Core i5-1240P,Iris Xe,0
+,máy lenovo dưới 20tr,20000000.0,lenovo,,29fe114f-5fe3-46a0-9d8a-4025d3fae026,lenovo,10500000,8,512,Intel Core i3-1115G4,Intel UHD,0
+,máy lenovo dưới 20tr,20000000.0,lenovo,,88d2e5e9-3d8d-48af-a142-b94a6ed9898e,lenovo,9500000,8,256,Intel Core i3-1215U,Intel UHD,0
+,máy lenavo dưới 20tr,20000000.0,,,ec6d21cf-8d6c-4b01-b30e-94a7cef6cd0e,apple,21000000,8,256,Apple M1,Integrated,0
+,máy lenavo dưới 20tr,20000000.0,,,bc6b28ae-5efe-46f2-b427-5a887474f0dc,apple,21500000,8,256,Apple M1,Integrated,0
+,máy lenavo dưới 20tr,20000000.0,,,8c5864cb-cc40-4104-bf83-90a1b29a0671,apple,21500000,8,256,Apple M1,Integrated,0
+,máy lenavo dưới 20tr,20000000.0,,,7198c03e-445c-48e0-bb01-021a44550414,dell,18500000,8,512,Intel Core i5-1135G7,Iris Xe,0
+,máy lenavo dưới 20tr,20000000.0,,,f7202d5f-c073-4164-b483-c0cd7e51de53,hp,21500000,16,512,Intel Core i5-1235U,Iris Xe,0
+,máy lenavo dưới 20tr,20000000.0,,,48a584d8-0098-4cb9-99cc-96863951c458,lenovo,21000000,16,512,Intel Core i5-1235U,Iris Xe,0
+,máy lenavo dưới 20tr,20000000.0,,,3f978568-e813-4d7e-8686-6bfdca15efbf,lenovo,19500000,16,512,AMD Ryzen 5 5600H,RTX 3050,0
+,máy lenavo dưới 20tr,20000000.0,,,7681e3d7-6654-4910-82c5-c97a4c1660ca,asus,21500000,16,512,Intel Core i5-11400H,RTX 3050,0
+,máy lenavo dưới 20tr,20000000.0,,,346c3c14-476f-461f-8418-8a48d08314a0,acer,18500000,16,512,Intel Core i5-1240P,Iris Xe,0
+,máy lenavo dưới 20tr,20000000.0,,,a759643c-5e71-4dbe-b041-2d37030f6c3e,acer,20500000,16,512,Intel Core i5-12500H,RTX 3050,0
+,máy lenevo dưới 20tr,20000000.0,,,ec6d21cf-8d6c-4b01-b30e-94a7cef6cd0e,apple,21000000,8,256,Apple M1,Integrated,0
+,máy lenevo dưới 20tr,20000000.0,,,bc6b28ae-5efe-46f2-b427-5a887474f0dc,apple,21500000,8,256,Apple M1,Integrated,0
+,máy lenevo dưới 20tr,20000000.0,,,8c5864cb-cc40-4104-bf83-90a1b29a0671,apple,21500000,8,256,Apple M1,Integrated,0
+,máy lenevo dưới 20tr,20000000.0,,,7198c03e-445c-48e0-bb01-021a44550414,dell,18500000,8,512,Intel Core i5-1135G7,Iris Xe,0
+,máy lenevo dưới 20tr,20000000.0,,,f7202d5f-c073-4164-b483-c0cd7e51de53,hp,21500000,16,512,Intel Core i5-1235U,Iris Xe,0
+,máy lenevo dưới 20tr,20000000.0,,,48a584d8-0098-4cb9-99cc-96863951c458,lenovo,21000000,16,512,Intel Core i5-1235U,Iris Xe,0
+,máy lenevo dưới 20tr,20000000.0,,,3f978568-e813-4d7e-8686-6bfdca15efbf,lenovo,19500000,16,512,AMD Ryzen 5 5600H,RTX 3050,0
+,máy lenevo dưới 20tr,20000000.0,,,7681e3d7-6654-4910-82c5-c97a4c1660ca,asus,21500000,16,512,Intel Core i5-11400H,RTX 3050,0
+,máy lenevo dưới 20tr,20000000.0,,,346c3c14-476f-461f-8418-8a48d08314a0,acer,18500000,16,512,Intel Core i5-1240P,Iris Xe,0
+,máy lenevo dưới 20tr,20000000.0,,,a759643c-5e71-4dbe-b041-2d37030f6c3e,acer,20500000,16,512,Intel Core i5-12500H,RTX 3050,0
+,máy lenevo dưới 20tr,20000000.0,,,ec6d21cf-8d6c-4b01-b30e-94a7cef6cd0e,apple,21000000,8,256,Apple M1,Integrated,0
+,máy lenevo dưới 20tr,20000000.0,,,bc6b28ae-5efe-46f2-b427-5a887474f0dc,apple,21500000,8,256,Apple M1,Integrated,0
+,máy lenevo dưới 20tr,20000000.0,,,8c5864cb-cc40-4104-bf83-90a1b29a0671,apple,21500000,8,256,Apple M1,Integrated,0
+,máy lenevo dưới 20tr,20000000.0,,,7198c03e-445c-48e0-bb01-021a44550414,dell,18500000,8,512,Intel Core i5-1135G7,Iris Xe,0
+,máy lenevo dưới 20tr,20000000.0,,,f7202d5f-c073-4164-b483-c0cd7e51de53,hp,21500000,16,512,Intel Core i5-1235U,Iris Xe,0
+,máy lenevo dưới 20tr,20000000.0,,,48a584d8-0098-4cb9-99cc-96863951c458,lenovo,21000000,16,512,Intel Core i5-1235U,Iris Xe,0
+,máy lenevo dưới 20tr,20000000.0,,,3f978568-e813-4d7e-8686-6bfdca15efbf,lenovo,19500000,16,512,AMD Ryzen 5 5600H,RTX 3050,0
+,máy lenevo dưới 20tr,20000000.0,,,7681e3d7-6654-4910-82c5-c97a4c1660ca,asus,21500000,16,512,Intel Core i5-11400H,RTX 3050,0
+,máy lenevo dưới 20tr,20000000.0,,,346c3c14-476f-461f-8418-8a48d08314a0,acer,18500000,16,512,Intel Core i5-1240P,Iris Xe,0
+,máy lenevo dưới 20tr,20000000.0,,,a759643c-5e71-4dbe-b041-2d37030f6c3e,acer,20500000,16,512,Intel Core i5-12500H,RTX 3050,0
+,máy lenevo dưới 20tr,20000000.0,,,ec6d21cf-8d6c-4b01-b30e-94a7cef6cd0e,apple,21000000,8,256,Apple M1,Integrated,0
+,máy lenevo dưới 20tr,20000000.0,,,bc6b28ae-5efe-46f2-b427-5a887474f0dc,apple,21500000,8,256,Apple M1,Integrated,0
+,máy lenevo dưới 20tr,20000000.0,,,8c5864cb-cc40-4104-bf83-90a1b29a0671,apple,21500000,8,256,Apple M1,Integrated,0
+,máy lenevo dưới 20tr,20000000.0,,,7198c03e-445c-48e0-bb01-021a44550414,dell,18500000,8,512,Intel Core i5-1135G7,Iris Xe,0
+,máy lenevo dưới 20tr,20000000.0,,,f7202d5f-c073-4164-b483-c0cd7e51de53,hp,21500000,16,512,Intel Core i5-1235U,Iris Xe,0
+,máy lenevo dưới 20tr,20000000.0,,,48a584d8-0098-4cb9-99cc-96863951c458,lenovo,21000000,16,512,Intel Core i5-1235U,Iris Xe,0
+,máy lenevo dưới 20tr,20000000.0,,,3f978568-e813-4d7e-8686-6bfdca15efbf,lenovo,19500000,16,512,AMD Ryzen 5 5600H,RTX 3050,0
+,máy lenevo dưới 20tr,20000000.0,,,7681e3d7-6654-4910-82c5-c97a4c1660ca,asus,21500000,16,512,Intel Core i5-11400H,RTX 3050,0
+,máy lenevo dưới 20tr,20000000.0,,,346c3c14-476f-461f-8418-8a48d08314a0,acer,18500000,16,512,Intel Core i5-1240P,Iris Xe,0
+,máy lenevo dưới 20tr,20000000.0,,,a759643c-5e71-4dbe-b041-2d37030f6c3e,acer,20500000,16,512,Intel Core i5-12500H,RTX 3050,0
+,máy chơi game dưới 30 triệu,30000000.0,,gaming,31916a3f-8a7e-47f0-9784-91d0cd384fe9,apple,30000000,8,512,Apple M1,Integrated,0
+,máy chơi game dưới 30 triệu,30000000.0,,gaming,9e4749e2-b206-4fbb-b136-fae8da0a9a97,apple,29500000,16,512,Apple M2,Integrated,0
+,máy chơi game dưới 30 triệu,30000000.0,,gaming,a4826d94-2984-45cb-9363-7aadb8afa11e,apple,31000000,8,512,Apple M2,Integrated,0
+,máy chơi game dưới 30 triệu,30000000.0,,gaming,b24dae96-b6f7-4454-8029-1808afc64b95,dell,31500000,16,512,Intel Core i7-12700H,RTX 4060,0
+,máy chơi game dưới 30 triệu,30000000.0,,gaming,551808ec-a3ac-4005-a94d-77bee7055341,lenovo,29500000,16,512,Intel Core i7-1255U,Iris Xe,0
+,máy chơi game dưới 30 triệu,30000000.0,,gaming,5e2bc2bd-09b7-43ac-8895-aaef424bf805,lenovo,30500000,16,512,AMD Ryzen 7 5800H,RTX 3060,0
+,máy chơi game dưới 30 triệu,30000000.0,,gaming,8d3bf194-5632-45c3-a12e-44b8e3cae9a0,asus,29500000,16,512,Intel Core i7-1355U,Iris Xe,0
+,máy chơi game dưới 30 triệu,30000000.0,,gaming,3f1d0c1c-9fe0-4b80-bf23-3929ab4ec5c3,msi,29500000,16,512,Intel Core i7-1370P,Iris Xe,0
+,máy chơi game dưới 30 triệu,30000000.0,,gaming,797b47e4-70a0-4da6-8bec-3fd480300afd,apple,29500000,8,256,Apple M3,Integrated,0
+,máy chơi game dưới 30 triệu,30000000.0,,gaming,e1738d0f-6a70-4b74-8175-3e564e822524,msi,29500000,16,512,Intel Core i7-13620H,RTX 4050,0
+,lap top nhẹ dưới 30 triệu,,,,ec6d21cf-8d6c-4b01-b30e-94a7cef6cd0e,apple,21000000,8,256,Apple M1,Integrated,0
+,lap top nhẹ dưới 30 triệu,,,,c401ca1b-3547-4855-ae95-cbe070c40cd2,apple,26000000,8,256,Apple M2,Integrated,0
+,lap top nhẹ dưới 30 triệu,,,,f6a53db3-7a78-4bca-8e19-d3a9478e8f24,apple,42000000,16,512,Apple M2 Pro,Integrated,0
+,lap top nhẹ dưới 30 triệu,,,,31916a3f-8a7e-47f0-9784-91d0cd384fe9,apple,30000000,8,512,Apple M1,Integrated,0
+,lap top nhẹ dưới 30 triệu,,,,bc6b28ae-5efe-46f2-b427-5a887474f0dc,apple,21500000,8,256,Apple M1,Integrated,0
+,lap top nhẹ dưới 30 triệu,,,,9e4749e2-b206-4fbb-b136-fae8da0a9a97,apple,29500000,16,512,Apple M2,Integrated,0
+,lap top nhẹ dưới 30 triệu,,,,966a376a-6d2c-4c8a-aa68-7eb9035893aa,apple,58000000,16,1000,Apple M2 Pro,Integrated,0
+,lap top nhẹ dưới 30 triệu,,,,8c5864cb-cc40-4104-bf83-90a1b29a0671,apple,21500000,8,256,Apple M1,Integrated,0
+,lap top nhẹ dưới 30 triệu,,,,43474679-a1ae-49be-b5ed-521f97734c31,apple,46000000,16,512,Apple M3,Integrated,0
+,lap top nhẹ dưới 30 triệu,,,,a4826d94-2984-45cb-9363-7aadb8afa11e,apple,31000000,8,512,Apple M2,Integrated,0
+871bd492-de1a-44db-b3f5-74c74c689b2f,làm việc muốn có lap nhẹ dưới 30 triệu,,,,ec6d21cf-8d6c-4b01-b30e-94a7cef6cd0e,apple,21000000,8,256,Apple M1,Integrated,0
+871bd492-de1a-44db-b3f5-74c74c689b2f,làm việc muốn có lap nhẹ dưới 30 triệu,,,,c401ca1b-3547-4855-ae95-cbe070c40cd2,apple,26000000,8,256,Apple M2,Integrated,0
+871bd492-de1a-44db-b3f5-74c74c689b2f,làm việc muốn có lap nhẹ dưới 30 triệu,,,,f6a53db3-7a78-4bca-8e19-d3a9478e8f24,apple,42000000,16,512,Apple M2 Pro,Integrated,0
+871bd492-de1a-44db-b3f5-74c74c689b2f,làm việc muốn có lap nhẹ dưới 30 triệu,,,,31916a3f-8a7e-47f0-9784-91d0cd384fe9,apple,30000000,8,512,Apple M1,Integrated,0
+871bd492-de1a-44db-b3f5-74c74c689b2f,làm việc muốn có lap nhẹ dưới 30 triệu,,,,bc6b28ae-5efe-46f2-b427-5a887474f0dc,apple,21500000,8,256,Apple M1,Integrated,0
+871bd492-de1a-44db-b3f5-74c74c689b2f,làm việc muốn có lap nhẹ dưới 30 triệu,,,,9e4749e2-b206-4fbb-b136-fae8da0a9a97,apple,29500000,16,512,Apple M2,Integrated,0
+871bd492-de1a-44db-b3f5-74c74c689b2f,làm việc muốn có lap nhẹ dưới 30 triệu,,,,966a376a-6d2c-4c8a-aa68-7eb9035893aa,apple,58000000,16,1000,Apple M2 Pro,Integrated,0
+871bd492-de1a-44db-b3f5-74c74c689b2f,làm việc muốn có lap nhẹ dưới 30 triệu,,,,8c5864cb-cc40-4104-bf83-90a1b29a0671,apple,21500000,8,256,Apple M1,Integrated,0
+871bd492-de1a-44db-b3f5-74c74c689b2f,làm việc muốn có lap nhẹ dưới 30 triệu,,,,43474679-a1ae-49be-b5ed-521f97734c31,apple,46000000,16,512,Apple M3,Integrated,0
+871bd492-de1a-44db-b3f5-74c74c689b2f,làm việc muốn có lap nhẹ dưới 30 triệu,,,,a4826d94-2984-45cb-9363-7aadb8afa11e,apple,31000000,8,512,Apple M2,Integrated,0
+50fd37e8-cbd4-47bd-9c46-6d656166f980,làm việc muốn có lap nhẹ,,,,ec6d21cf-8d6c-4b01-b30e-94a7cef6cd0e,apple,21000000,8,256,Apple M1,Integrated,0
+50fd37e8-cbd4-47bd-9c46-6d656166f980,làm việc muốn có lap nhẹ,,,,c401ca1b-3547-4855-ae95-cbe070c40cd2,apple,26000000,8,256,Apple M2,Integrated,0
+50fd37e8-cbd4-47bd-9c46-6d656166f980,làm việc muốn có lap nhẹ,,,,f6a53db3-7a78-4bca-8e19-d3a9478e8f24,apple,42000000,16,512,Apple M2 Pro,Integrated,0
+50fd37e8-cbd4-47bd-9c46-6d656166f980,làm việc muốn có lap nhẹ,,,,31916a3f-8a7e-47f0-9784-91d0cd384fe9,apple,30000000,8,512,Apple M1,Integrated,0
+50fd37e8-cbd4-47bd-9c46-6d656166f980,làm việc muốn có lap nhẹ,,,,bc6b28ae-5efe-46f2-b427-5a887474f0dc,apple,21500000,8,256,Apple M1,Integrated,0
+50fd37e8-cbd4-47bd-9c46-6d656166f980,làm việc muốn có lap nhẹ,,,,9e4749e2-b206-4fbb-b136-fae8da0a9a97,apple,29500000,16,512,Apple M2,Integrated,0
+50fd37e8-cbd4-47bd-9c46-6d656166f980,làm việc muốn có lap nhẹ,,,,966a376a-6d2c-4c8a-aa68-7eb9035893aa,apple,58000000,16,1000,Apple M2 Pro,Integrated,0
+50fd37e8-cbd4-47bd-9c46-6d656166f980,làm việc muốn có lap nhẹ,,,,8c5864cb-cc40-4104-bf83-90a1b29a0671,apple,21500000,8,256,Apple M1,Integrated,0
+50fd37e8-cbd4-47bd-9c46-6d656166f980,làm việc muốn có lap nhẹ,,,,43474679-a1ae-49be-b5ed-521f97734c31,apple,46000000,16,512,Apple M3,Integrated,0
+50fd37e8-cbd4-47bd-9c46-6d656166f980,làm việc muốn có lap nhẹ,,,,a4826d94-2984-45cb-9363-7aadb8afa11e,apple,31000000,8,512,Apple M2,Integrated,0

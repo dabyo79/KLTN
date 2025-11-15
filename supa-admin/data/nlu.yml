@@ -1,0 +1,115 @@
+version: "3.1"
+nlu:
+  # ===== GREET / GOODBYE =====
+  - intent: greet
+    examples: |
+      - xin chào
+      - chào bạn
+      - hello
+      - hi
+      - alo
+  - intent: goodbye
+    examples: |
+      - tạm biệt
+      - bye
+      - hẹn gặp lại
+      - chào tạm biệt
+
+  # ===== SEARCH =====
+  - intent: search_laptop
+    examples: |
+      - Tôi muốn laptop [MSI](brand)
+      - [msi](brand)
+      - [Asus](brand)
+      - [DELL](brand)
+      - Tôi thích [Lenovo](brand)
+      - tìm laptop dell dưới 15 triệu
+      - kiếm laptop [asus](brand) khoảng [12 triệu](price_max)
+      - cho mình laptop [lenovo](brand) tầm [10tr](price_max)
+      - laptop [hp](brand) dưới [12tr](price_max)
+      - cần máy [chơi game](usage) tầm [20tr](price_max)
+      - laptop [văn phòng](usage) giá [8tr](price_max)
+      - cần máy [đồ hoạ](usage) tầm [25 triệu](price_max)
+      - muốn mua laptop [msi](brand) ram [16gb](ram)
+      - máy [acer](brand) cpu [i5](cpu)
+      - gợi ý máy học online
+      - tư vấn laptop làm [văn phòng](usage)
+      - cho mình vài mẫu lenovo
+      - mình muốn máy để [chơi game](usage)
+      - laptop mỏng nhẹ cho [văn phòng](usage)
+      - đề xuất máy học online tầm [10tr](price_max)
+      - cho xin vài con dell làm việc
+      - kiếm máy bền bỉ học tập
+      - máy pin trâu cho sinh viên
+      - laptop lập trình [văn phòng](usage)
+      - cần máy đánh văn bản thuyết trình
+
+  # ===== BRAND ANY =====
+  - intent: brand_any
+    examples: |
+      - hãng nào cũng được
+      - hãng không quan trọng
+      - tuỳ bạn chọn
+      - sao cũng được
+      - miễn ổn là được
+      - tuỳ
+      - gì cũng ok
+      - chọn giúp mình đi
+      - không cần hãng
+      - miễn hợp nhu cầu
+      - không ưu tiên hãng
+      - không quan tâm thương hiệu
+
+  # ===== LOOKUP / SYNONYMS =====
+  - lookup: brand
+    examples: |
+      - dell
+      - asus
+      - lenovo
+      - hp
+      - acer
+      - msi
+      - apple
+
+  - synonym: văn phòng
+    examples: |
+      - văn phòng
+      - office
+      - làm việc
+      - làm việc ở văn phòng
+      - học online
+      - học hành
+      - soạn thảo
+
+  - synonym: chơi game
+    examples: |
+      - chơi game
+      - gaming
+      - game
+
+  - synonym: đồ hoạ
+    examples: |
+      - đồ hoạ
+      - đồ họa
+      - thiết kế
+      - design
+      - edit ảnh
+      - dựng video
+  
+  - intent: new_search
+    examples: |
+      - tìm máy mới
+      - cho mình tìm lại từ đầu
+      - tìm lại từ đầu
+      - reset tìm kiếm
+      - máy khác
+      - đổi máy khác
+
+  # ===== REGEX GIÁ =====
+  - regex: price_max
+    examples: |
+      - (?i)(\d+)\s*(triệu|tr)
+      - (?i)dưới\s*(\d+)\s*(triệu|tr)
+      - (?i)tối đa\s*(\d+)\s*(triệu|tr)
+      - (?i)khoảng\s*(\d+)\s*(triệu|tr)
+      - (?i)\b(\d{6,})\b

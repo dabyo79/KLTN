@@ -1,0 +1,34 @@
+version: "3.1"
+
+rules:
+  # Bắt đầu hội thoại
+  - rule: greet
+    steps:
+      - intent: greet
+      - action: utter_greet
+
+  # Người dùng nói “hãng nào cũng được”
+  - rule: set brand any
+    steps:
+      - intent: brand_any
+      - action: action_set_brand_any
+
+  # Khi người dùng hỏi tìm laptop (đủ/thiếu thông tin) → action sẽ tự hỏi bù
+  - rule: search laptop
+    steps:
+      - intent: search_laptop
+      - action: action_search_laptop
+
+  # Nếu rơi vào NLU fallback nhưng trước đó đang trong flow tìm kiếm, vẫn trả lời lịch sự
+  - rule: nlu fallback
+    steps:
+      - intent: nlu_fallback
+      - action: utter_nlu_fallback
+
+  # Cho phép reset bất kỳ lúc nào
+  - rule: restart search anytime
+    steps:
+      - intent: new_search
+      - action: action_clear_slots
+      - action: utter_greet
+

@@ -1,0 +1,77 @@
+version: "3.1"
+
+intents:
+  - greet
+  - goodbye
+  - search_laptop
+  - brand_any
+  - new_search
+
+entities:
+  - brand
+  - price_max
+  - usage
+  - ram
+  - cpu
+
+slots:
+  usage:
+    type: text
+    influence_conversation: true
+    mappings:
+      - type: from_entity
+        entity: usage
+
+  price_max:
+    type: text
+    influence_conversation: true
+    mappings:
+      - type: from_entity
+        entity: price_max
+    # ❌ KHÔNG from_text nếu không dùng Form
+
+  brand:
+    type: text
+    influence_conversation: true
+    mappings:
+      - type: from_entity
+        entity: brand
+    # ❌ KHÔNG from_text nếu không dùng Form
+
+  dev_mode:
+    type: bool
+    influence_conversation: false
+    initial_value: false
+    mappings: []
+
+responses:
+  utter_greet:
+    - text: "Chào bạn 👋 bạn cần máy hãng gì, tầm giá bao nhiêu, dùng để làm gì?"
+  utter_goodbye:
+    - text: "Chào tạm biệt 👋"
+  utter_nlu_fallback:
+    - text: "Mình chưa rõ ý bạn, bạn nói lại giúp mình nha."
+  utter_ask_usage:
+    - text: "Bạn dùng để làm gì vậy? (văn phòng / học online / chơi game / đồ hoạ...)"
+  utter_ask_price_max:
+    - text: "Bạn muốn tầm giá tối đa bao nhiêu (vd: 12tr, 15 triệu)?"
+  utter_ask_brand:
+    - text: "Bạn thích hãng nào (Dell/Asus/Lenovo/HP/MSI/Acer/Apple) hay ‘không quan trọng’?"
+  utter_after_results:
+    - text: "Bạn muốn làm gì tiếp theo?"
+      buttons:
+        - title: "🔄 Tìm máy mới"
+          payload: "/new_search"
+        - title: "🔎 Lọc thêm"
+          payload: "lọc thêm"
+  utter_followup_more:
+    - text: "Bạn có muốn siết thêm tiêu chí (RAM, CPU, màn, …) không?"
+
+actions:
+  - action_search_laptop
+  - action_set_brand_any
+  - action_clear_slots
+
+session_config:
+  session_expiration_time: 20
+  carry_over_slots_to_new_session: false
